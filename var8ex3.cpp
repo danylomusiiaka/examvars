@@ -32,7 +32,7 @@ int main()
             _slivj += 1;
         }
         pos = pos1 + 1;
-    } while (pos != slength);
+    } while (pos != s.find(".", pos));
 
     cout << "Result is: " << s << endl;
     cout << "word with f:" << _slivf << endl;
