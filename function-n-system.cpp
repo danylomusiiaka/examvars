@@ -1,4 +1,3 @@
-//from 10 system to n-system 
 #include <iostream> 
 #include <string> 
 using namespace std; 
